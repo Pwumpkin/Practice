@@ -1,13 +1,17 @@
 #ENoteTaker
 ## Intro
-While searching for effective note taking strategies on the internet,
-I've stumbled upon Thomas Frank's video on 5 effective note taking strategies.
+ENoteTaker is my attempt at creating a small web application that can help students
+take notes more effectively. Out of all the ways of taking notes, some methods
+are more efficient/effective at organizing information in useful ways. ENoteTaker
+provides a easy to set up, and intuitive way to take large amounts of notes.
 
-## Motivation
-Although there are many good note taking apps out there on the market like OneNote and Evernote,
-note taking customization features usually require a paid subscription. ENoteTaker is an attempt
-at providing customizable and effective note taking in an open source package.
+## What does it do:
+Students can use ENoteTaker to take notes efficiently.
+* ENoteTaker helps by providing notebook page templates for efficient note taking methods.
+* ENoteTaker lets Students organize their notes into Notebooks
 
-## Technologies used:
-This project is my attempt at creating a complete AJAX notetaking application using
-the basics of web development: HTML5, CSS, and JS.
+## Technologies
+As a small app, ENoteTaker should be able to run fairly fast within a browser on the client side only.
+
+The project is my attempt at creating a complete AJAX notetaking application using
+the fundamentals of web-dev Technologies: HTML5, CSS, and JS.
