@@ -1,0 +1,17 @@
+<style>
+  a {
+    color: #000;
+  }
+  /*
+  a pseudo-class is a keyword added to selectros
+  its selects a specific state of an element, and treates it like a real class
+  use syntax element:pseudoclassselector
+  eg a:hover
+  where pseudoclassselector is usually a verb representing a specifiic state
+  */
+  a:hover {
+    color: blue;
+  }
+
+</style>
+<a href="https://freecatphotoapp.com/" target="_blank">CatPhotoApp</a>

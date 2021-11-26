@@ -1,0 +1,18 @@
+<style>
+  /*CSS treates each HTML element as a box
+  this is called the box model
+  Block level elements usually start on a new line
+  Inline elements sit within surround content
+  Normal flow: block elements show as blocks, inline shows as inline
+  position property can be used to override normal flow
+  */
+  h2 {
+    position: relative;
+    top: 15px;
+  }
+</style>
+<body>
+  <h1>On Being Well-Positioned</h1>
+  <h2>Move me!</h2>
+  <p>I still think the h2 is where it normally sits.</p>
+</body>

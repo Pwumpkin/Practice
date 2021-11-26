@@ -1,0 +1,26 @@
+<style>
+  /*When two elements overlap due to 1 of the 4: absolute | relative | fixed | stick
+  the element coming later in the html will appear ontop of the other
+  use z-index to specify the order on which they stack must be an integer, higher values move it up*/
+  div {
+    width: 60%;
+    height: 200px;
+    margin-top: 20px;
+  }
+
+  .first {
+    background-color: red;
+    position: absolute;
+    z-index: 2;
+  }
+  .second {
+    background-color: blue;
+    position: absolute;
+    left: 40px;
+    top: 50px;
+    z-index: 1;
+  }
+</style>
+
+<div class="first"></div>
+<div class="second"></div>
