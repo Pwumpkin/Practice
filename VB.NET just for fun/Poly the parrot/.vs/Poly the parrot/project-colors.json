@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5cb444d-4f7a-4b5e-8e99-7008540e878a": {
+      "ProjectGuid": "f5cb444d-4f7a-4b5e-8e99-7008540e878a",
+      "DisplayName": "Poly the parrot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
