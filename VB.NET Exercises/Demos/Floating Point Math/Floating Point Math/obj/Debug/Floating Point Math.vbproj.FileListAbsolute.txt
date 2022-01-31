@@ -1,0 +1,11 @@
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.exe.config
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.exe
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.pdb
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.xml
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\obj\Debug\Floating_Point_Math.Form1.resources
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\obj\Debug\Floating_Point_Math.Resources.resources
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.vbproj.GenerateResource.cache
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.vbproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.exe
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.xml
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.pdb

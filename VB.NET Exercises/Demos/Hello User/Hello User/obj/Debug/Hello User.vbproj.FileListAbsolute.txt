@@ -1,0 +1,11 @@
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\bin\Debug\Hello User.exe.config
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\bin\Debug\Hello User.exe
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\bin\Debug\Hello User.pdb
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\bin\Debug\Hello User.xml
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\obj\Debug\Hello_User.HelloUser.resources
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\obj\Debug\Hello_User.Resources.resources
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\obj\Debug\Hello User.vbproj.GenerateResource.cache
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\obj\Debug\Hello User.vbproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\obj\Debug\Hello User.exe
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\obj\Debug\Hello User.xml
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Hello User\Hello User\obj\Debug\Hello User.pdb

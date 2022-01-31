@@ -1,0 +1,12 @@
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\bin\Debug\Integer Math.exe.config
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\bin\Debug\Integer Math.exe
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\bin\Debug\Integer Math.pdb
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\bin\Debug\Integer Math.xml
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\obj\Debug\Integer Math.vbproj.AssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\obj\Debug\Integer_Math.IntegerCalculations.resources
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\obj\Debug\Integer_Math.Resources.resources
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\obj\Debug\Integer Math.vbproj.GenerateResource.cache
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\obj\Debug\Integer Math.vbproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\obj\Debug\Integer Math.exe
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\obj\Debug\Integer Math.xml
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Integer Math\Integer Math\obj\Debug\Integer Math.pdb

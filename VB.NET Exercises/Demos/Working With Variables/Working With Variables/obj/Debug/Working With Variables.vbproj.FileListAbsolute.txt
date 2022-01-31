@@ -1,0 +1,12 @@
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\bin\Debug\Working With Variables.exe.config
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\bin\Debug\Working With Variables.exe
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\bin\Debug\Working With Variables.pdb
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\bin\Debug\Working With Variables.xml
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\obj\Debug\Working With Variables.vbproj.AssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\obj\Debug\Working_With_Variables.Form1.resources
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\obj\Debug\Working_With_Variables.Resources.resources
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\obj\Debug\Working With Variables.vbproj.GenerateResource.cache
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\obj\Debug\Working With Variables.vbproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\obj\Debug\Working With Variables.exe
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\obj\Debug\Working With Variables.xml
+C:\Users\Kevin\Documents\GitHub\Practice\VB.NET Exercises\Working With Variables\Working With Variables\obj\Debug\Working With Variables.pdb
