@@ -8,11 +8,12 @@ let boat = {
   type: "race-boat"
 };
 
-// Add your code below this line
+// Only change code below this line
 let glideMixin = function(obj) {
   obj.glide = function() {
-    console.log("Gliding!");
-  };
-};
+    console.log("Glidin, swoosh!");
+  }
+}
+
 glideMixin(bird);
 glideMixin(boat);
